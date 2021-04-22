@@ -1,0 +1,14 @@
+.container
+{
+    margin-top:10vh;
+    border:1px solid;
+}
+
+.social-media{
+    margin-left:70%;
+}
+
+#ava{
+    display:block;
+    margin: 0 auto;
+}
