@@ -1,14 +1,66 @@
-.container
+a
 {
-    margin-top:10vh;
-    border:1px solid;
+    color:black;
+    display: block;
+
 }
 
-.social-media{
-    margin-left:70%;
+ul
+{
+color:white;
+font-family: 'Oswald', sans-serif;
+font-weight: bold;
+}
+
+html, body {
+    min-height:100%;
+    background-size:cover;
+    background-color: black;
+}
+
+
+h1,p
+{
+    color:white;
+    font-family: 'Arvo', serif;
+}
+.container
+{
+  margin-top:10vh;
+    
+}
+
+.text-centr
+{
+    text-align: center;
 }
 
 #ava{
     display:block;
-    margin: 0 auto;
+    margin: 10% auto;
+    border-radius:30%;
+    border:black solid;
+
+}
+
+.col
+{
+    width: 25vh;
+    background-color: gold;
+}
+
+.social
+{
+    text-align: center;
+    color:black;
+}
+
+.languages
+{
+    margin-left: 6%;
+}
+
+.img-social
+{
+    margin-right: 10%;
 }
